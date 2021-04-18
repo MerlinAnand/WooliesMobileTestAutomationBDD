@@ -1,5 +1,5 @@
 
-Native Mobile Application Testing using WebdriverIO and Appium
+Native Mobile Application TestAutomation using WebdriverIO and Appium
 
 ## WebdriverIO
 WebdriverIO is an open source testing utility for nodejs. It makes it possible to write super easy selenium tests with Javascript in your favorite BDD or TDD test framework. It basically sends requests to a Selenium server via the WebDriver Protocol and handles its response.
