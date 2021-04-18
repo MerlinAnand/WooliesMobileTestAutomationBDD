@@ -8,7 +8,7 @@ WebdriverIO is an open source testing utility for nodejs. It makes it possible t
 Appium is an open source automation tool for running scripts and testing native applications, mobile-web applications and hybrid applications on Android or iOS using a webdriver
 
 WebdriverIO: 6.7.2
-Appium: 1.15.#
+Appium: 6.1.16
 ## Installing Appium on a local machine
 See Installing Appium on a local machine - https://github.com/webdriverio/appium-boilerplate/blob/main/docs/APPIUM.md
 
@@ -22,7 +22,7 @@ https://github.com/webdriverio/appium-boilerplate/blob/main/docs/ANDROID_IOS_SET
 - Install appium-desktop and configure the jdk in java home in appium
 - Open the emulator and run the command ```adb devices``` for android
 - Open terminal in visual code and install ```npm install```
-- Start the appium server
+- Need not start the appium server explicitely 
 
 
 ## Run for iOS
